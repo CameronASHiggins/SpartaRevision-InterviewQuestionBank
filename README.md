@@ -31,9 +31,15 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | Java Basics | What are the primitive types in Java? |
 | OOP | What are the four pillars of OOP? Explain them. |
 | Solid | What are the SOLID Principles? Explain them. |
+| Agile | What are the 4 values of the Agile Manifesto? Elaborate on them. |
+| Scrum | What are the three pillars of Scrum? Explain them. |
+| Scrum | What are the 3 Scrum roles? Give a brief description of them. |
+| Scrum | List the Scrum Events/Ceremonies and explain each's purpose. |
+| Scrum | List the Scrum Artefacts. |
 | Keywords | What is the effect of using the final keyword in a class, attribute and method signature? |
 | Design Patterns | What design patterns have you used? What category of pattern was it? Explain one of these patterns. |
 | Strings | Explain and compare String, StringBuilder and StringBuffer. |
+| Strings | What is different when we create String normally and when we use the new keyword? |
 | Encapsulation | How would you go about encapsulating a class? |
 | Equals | How are the == operator and equals() method different? |
 | Equals | If you override the equals() method what other method must you override and why? |
@@ -54,5 +60,6 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | Git | What is Git? How is it different to GitHub? |
 | Git | How do we make a copy of a pre-existing repository to out local machine? |
 | Git | How do we send/receive any changes to and from a remote repository? What issues can occur? How can we mitigate these issues? |
+| Git | What can we add to a git project to exclude certain file types from being added to the staging area. |
 | Git | What can we use to run git commands? |
 | Spring | What is Spring Boot and how is it different from Spring? |
