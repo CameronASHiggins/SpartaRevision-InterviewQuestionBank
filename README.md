@@ -26,7 +26,7 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 
 ## Technical Questions - 41 Questions
 
-|Topic|Question|
+| Topic | Question |
 | :---: | :--- |
 | Java Basics | What are the primitive types in Java? |
 | OOP | What are the four pillars of OOP? Explain them. |
@@ -38,6 +38,7 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | Scrum | List the Scrum Artefacts. |
 | Keywords | What is the effect of using the final keyword in a class, attribute and method signature? |
 | Design Patterns | What design patterns have you used? What category of pattern was it? Explain one of these patterns. |
+| Design Patterns | What are some of the features of the singleton pattern? |
 | Strings | Explain and compare String, StringBuilder and StringBuffer. |
 | Strings | What is different when we create String normally and when we use the new keyword? |
 | Encapsulation | How would you go about encapsulating a class? |
@@ -70,3 +71,7 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | Equals | What are the 4 criteria of the equals() contract? Explain them. |
 | TDD | What are the three stages of test driven development? |
 | Spring | In Spring Data JPA how do we create our own queries? |
+| Comparator | How would you use a comparator, what is a comparator? |
+| SQL | What are the 3 execute methods for statements and what do they each return? |
+| Generics | Where would we use generics? What are the benefits of generics? |
+| Classes | What is the difference between static nested classes and inner classes? |
