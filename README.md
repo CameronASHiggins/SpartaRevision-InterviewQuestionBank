@@ -5,7 +5,7 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 
 ---
 
-## Soft Skill Questions
+## Soft Skill Questions - 13 Questions
 
 | Question |
 | :---: |
@@ -24,7 +24,7 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | Tell me about a time when you had to meet a deadline? How did you go about meeting it? |
 | Tell me about a time you dealt with conflict within a team. How did you resolve it? |
 
-## Technical Questions
+## Technical Questions - 41 Questions
 
 |Topic|Question|
 | :---: | :--- |
@@ -63,3 +63,10 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | Git | What can we add to a git project to exclude certain file types from being added to the staging area. |
 | Git | What can we use to run git commands? |
 | Spring | What is Spring Boot and how is it different from Spring? |
+| Spring | What is a bean? |
+| Exceptions | What are the differences between checked and unchecked exceptions? |
+| Exceptions | How would you create your own exception? |
+| Exceptions | What are the 2 ways of handling exceptions in code? Which is preferred and why? |
+| Equals | What are the 4 criteria of the equals() contract? Explain them. |
+| TDD | What are the three stages of test driven development? |
+| Spring | In Spring Data JPA how do we create our own queries? |
