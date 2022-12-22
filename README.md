@@ -75,3 +75,4 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | SQL | What are the 3 execute methods for statements and what do they each return? |
 | Generics | Where would we use generics? What are the benefits of generics? |
 | Classes | What is the difference between static nested classes and inner classes? |
+| JDK, JRE, JVM | What are the differences between JDK JVM and JRE? |
