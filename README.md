@@ -1,5 +1,5 @@
 # <u>SpartaRevision-InterviewQuestionBank</u>
-## A question bank for personal use and to brush up on common interview questions.
+## A question bank for personal use and to brush up on common software development interview questions.
 
 This is by no means an exhaustive list so feel free to add new questions or elaborations on existing questions either underneath or afterwards.
 
@@ -24,7 +24,7 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | Tell me about a time when you had to meet a deadline? How did you go about meeting it? |
 | Tell me about a time you dealt with conflict within a team. How did you resolve it? |
 
-## Technical Questions - 41 Questions
+## Technical Questions - 50 Questions
 
 | Topic | Question |
 | :---: | :--- |
@@ -63,6 +63,7 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | Git | How do we send/receive any changes to and from a remote repository? What issues can occur? How can we mitigate these issues? |
 | Git | What can we add to a git project to exclude certain file types from being added to the staging area. |
 | Git | What can we use to run git commands? |
+| Git | Where do you use Git in your work? |
 | Spring | What is Spring Boot and how is it different from Spring? |
 | Spring | What is a bean? |
 | Exceptions | What are the differences between checked and unchecked exceptions? |
@@ -76,3 +77,5 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | Generics | Where would we use generics? What are the benefits of generics? |
 | Classes | What is the difference between static nested classes and inner classes? |
 | JDK, JRE, JVM | What are the differences between JDK JVM and JRE? |
+| Java Association | What are the three types of association in java? Describe them. |
+| Stream | What are the 2 types of operations in stream? give some examples? |
