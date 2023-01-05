@@ -79,5 +79,10 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | JDK, JRE, JVM | What are the differences between JDK JVM and JRE? |
 | Java Association | What are the three types of association in java? Describe them. |
 | Stream | What are the 2 types of operations in stream? give some examples? |
-| REST API | How do we create mappings for HTTP request methods? |
+| HTTP | Name 5 of the possible HTTP request methods. |
+| HTTP | What applications/technologies can we use to send requests other than GET requests? |
+| HTTP | What are the different types of response codes we can receive in HTTP? Give some examples. |
+| REST API | How do we create mappings for HTTP request methods in Java? |
 | REST API | What do we mean by statelessness in REST APIs? |
+| REST API | What is cacheability in REST? |
+| REST API | What information can we send in a HTTP request? |
