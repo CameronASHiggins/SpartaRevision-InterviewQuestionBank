@@ -57,7 +57,7 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | Concurrency | What are some potential issues with concurrency within a project? |
 | Concurrency | Can you mention and describe some methods related to concurrency? |
 | Concurrency | What is a lock? |
-| Concurrency | What states can a thread be in? |
+| Concurrency | What states can a thread be in?/What is the lifecycle of a thread?|
 | Git | What is Git? How is it different to GitHub? |
 | Git | How do we make a copy of a pre-existing repository to out local machine? |
 | Git | How do we send/receive any changes to and from a remote repository? What issues can occur? How can we mitigate these issues? |
@@ -79,3 +79,5 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | JDK, JRE, JVM | What are the differences between JDK JVM and JRE? |
 | Java Association | What are the three types of association in java? Describe them. |
 | Stream | What are the 2 types of operations in stream? give some examples? |
+| REST API | How do we create mappings for HTTP request methods? |
+| REST API | What do we mean by statelessness in REST APIs? |
