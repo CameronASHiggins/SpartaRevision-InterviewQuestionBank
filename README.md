@@ -24,7 +24,7 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | Tell me about a time when you had to meet a deadline? How did you go about meeting it? |
 | Tell me about a time you dealt with conflict within a team. How did you resolve it? |
 
-## Technical Questions - 50 Questions
+## Technical Questions - 57 Questions
 
 | Topic | Question |
 | :---: | :--- |
