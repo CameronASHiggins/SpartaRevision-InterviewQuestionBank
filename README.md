@@ -28,7 +28,7 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 
 | Topic | Question |
 | :---: | :--- |
-| Java Basics | What are the primitive types in Java? |
+| Java Basics | What are the 8 primitive types in Java? |
 | OOP | What are the four pillars of OOP? Explain them. |
 | Solid | What are the SOLID Principles? Explain them. |
 | Agile | What are the 4 values of the Agile Manifesto? Elaborate on them. |
