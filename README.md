@@ -55,10 +55,10 @@ This is by no means an exhaustive list so feel free to add new questions or elab
 | JDBC | Briefly describe JDBC and how you might use it. |
 | JDBC | What is a DAO and why is it important to use one? |
 | Concurrency | What are some potential issues with concurrency within a project? |
-| Concurrency | What is Deadlock?
-| Concurrency | What is Livelock?
-| Concurrency | What is Starvation?
-| Concurrency | What is a race condition?
+| Concurrency | What is Deadlock? |
+| Concurrency | What is Livelock? |
+| Concurrency | What is Starvation? |
+| Concurrency | What is a race condition? |
 | Concurrency | Can you mention and describe some methods related to concurrency? |
 | Concurrency | What is a lock? |
 | Concurrency | What states can a thread be in?/What is the lifecycle of a thread?|
